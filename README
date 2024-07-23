@@ -1,8 +1,12 @@
+# Purpose
 This repository contains all the code used for my Master's Thesis called "Analyzing the boundary between neuronal and non-neuronal text classifiers", the thesis can be accessed in this link (https://oa.upm.es/help/tfm.html) sometime in the near future.
 In this repository you will find all the tests and experiments I made to different AI classic and neuronal text classifiers to find the boundary between neruonal and non-neuronal models.
 
+# Reproduce the Experiments
+
 To reproduce the experiments made with this code first of all you need to download the datasets from Zenodo.
 
+## Get the datasets
 Original DBpedia dataset -> https://zenodo.org/doi/10.5281/zenodo.12773814
 Derived datasets made by me -> https://zenodo.org/doi/10.5281/zenodo.12783743
 
@@ -10,7 +14,11 @@ You can download one of them, but if you only download the original dataset, you
 
 If you downloaded the derived datasets, that step will be already done. You need to create a folder called "FinalDataset" and move these datasets there.
 
+## Train the models
+
 Now that you have the datasets ready, you just need to open any model notebook -> "XLNet.ipynb", "BERT.ipynb" or "ClassicModels.ipynb", change the filename variable with the name of any of the datasets and the model will train with that dataset.
+
+# Extras and Utilities
 
 Be careful with XLNet because it uses a lot of RAM and GPU.
 
