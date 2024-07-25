@@ -1,6 +1,6 @@
 # Purpose
-This repository contains all the code used for my Master's Thesis called "Analyzing the boundary between neuronal and non-neuronal text classifiers", the thesis can be accessed in this link (https://oa.upm.es/help/tfm.html) sometime in the near future.
-In this repository you will find all the tests and experiments I made to different AI classic and neuronal text classifiers to find the boundary between neruonal and non-neuronal models.
+This repository contains all the code used for my Master's Thesis entitled "Analyzing the boundary between neuronal and non-neuronal text classifiers". The thesis can be accessed in this link (https://oa.upm.es/help/tfm.html) sometime in the near future.
+In this repository you will find all the tests and experiments I made with different classic and neuronal text classifiers to find the boundary between neuronal and non-neuronal models.
 
 # Reproduce the Experiments
 
